@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#yellow {
+    background-color: rgb(226, 226, 103);
+    min-height: 60vh;
+    text-align: center ;
+    padding: 100px 0px 0px 0px;
+    font-size: 50px;
+}
+
+#red{
+    background-color: rgba(255, 0, 0, 0.702);
+}
